@@ -1,0 +1,4 @@
+.TodoForm { text-align: center; padding-bottom: 40px; 
+    padding-top: 20px;background:beige}
+.TodoForm input {width:400px; height:45px;padding:0 20px; box-sizing: border-box; vertical-align: top;}
+.TodoForm button { width:100px;height:45px;}
